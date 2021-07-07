@@ -1,0 +1,54 @@
+[
+  {
+    "user_id": "2394823049841-1038-0",
+    "savings": [
+      {
+        "savings": 100,
+        "record": {
+          "month": 2,
+          "year": 2021
+        }
+      },
+      {
+        "savings": 250,
+        "record": {
+          "month": 3,
+          "year": 2021
+        }
+      },
+      {
+        "savings": 500,
+        "record": {
+          "month": 4,
+          "year": 2021
+        }
+      }
+    ]
+  },
+  {
+    "user_id": "320498304752075-1038-0",
+    "savings": [
+      {
+        "savings": 100,
+        "record": {
+          "month": 2,
+          "year": 2021
+        }
+      },
+      {
+        "savings": 250,
+        "record": {
+          "month": 3,
+          "year": 2021
+        }
+      },
+      {
+        "savings": 500,
+        "record": {
+          "month": 4,
+          "year": 2021
+        }
+      }
+    ]
+  }
+]
